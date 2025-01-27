@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sheikh Mannan Javeed</h1>
 <h3 align="center">A passionate Computer Science enthusiast.</h3>
 
+![Sample Image](https://images.unsplash.com/photo-1624696941338-934bf86c28b4?q=80&w=2340&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheikhjaveed&label=Profile%20views&color=0e75b6&style=flat" alt="sheikhjaveed" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheikhjaveed" alt="sheikhjaveed" /></a> </p>
