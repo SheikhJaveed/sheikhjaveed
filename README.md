@@ -3,9 +3,6 @@
 
 ![Sample Image](https://ieeeusa.org/wp-content/uploads/2022/08/GettyImages-1361008761-scaled.jpg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sheikhjaveed&label=Profile%20views&color=0e75b6&style=flat" alt="sheikhjaveed" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheikhjaveed" alt="sheikhjaveed" /></a> </p>
 
 - 🌱 I’m currently learning **DSA, Web development and AI**
 
