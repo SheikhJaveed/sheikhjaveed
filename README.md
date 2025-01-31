@@ -17,10 +17,11 @@
 </p>
 
 
-
+Skills:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,java,python,react,mongodb,postgres,mysql,nodejs,nextjs,postman,flutter,tailwind&theme=light)](https://skillicons.dev)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sheikhjaveed&show_icons=true&locale=en&layout=compact" alt="sheikhjaveed" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sheikhjaveed&show_icons=true&locale=en" alt="sheikhjaveed" /></p>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sheikhjaveed)](https://git.io/streak-stats)
