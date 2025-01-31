@@ -23,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sheikhjaveed&show_icons=true&locale=en&theme=highcontrast" alt="sheikhjaveed" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sheikhjaveed&theme=highcontrast)](https://git.io/streak-stats)
+
