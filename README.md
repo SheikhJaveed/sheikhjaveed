@@ -15,13 +15,12 @@
 <a href="https://linkedin.com/in/sheikh-javeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sheikh-javeed" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sheikh_javeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sheikh_javeed" height="30" width="40" /></a>
 </p>
+<h3 align="left">Skills</h3>
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,java,python,react,mongodb,postgres,mysql,nodejs,nextjs,postman,flutter,tailwind,vscode,linux,express,bootstrap&theme=light&perline=10)](https://skillicons.dev)
 
-Skills:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,java,python,react,mongodb,postgres,mysql,nodejs,nextjs,postman,flutter,tailwind&theme=light)](https://skillicons.dev)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sheikhjaveed&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="sheikhjaveed" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sheikhjaveed&show_icons=true&locale=en&layout=compact" alt="sheikhjaveed" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sheikhjaveed&show_icons=true&locale=en&theme=highcontrast" alt="sheikhjaveed" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sheikhjaveed&show_icons=true&locale=en&theme=dark" alt="sheikhjaveed" /></p>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sheikhjaveed&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sheikhjaveed&theme=highcontrast)](https://git.io/streak-stats)
