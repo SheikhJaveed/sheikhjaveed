@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sheikh Mannan Javeed</h1>
 <h3 align="center">A passionate Computer Science enthusiast.</h3>
 
-![Sample Image](https://ieeeusa.org/wp-content/uploads/2022/08/GettyImages-1361008761-scaled.jpg)
+
+![image](readme_img.jpg)
 
 
 - 🌱 I’m currently learning **DSA, Web development and AI**
