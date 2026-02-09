@@ -1,10 +1,13 @@
 ## Hey there 👋
 
+<img src="./assets/readme_img.jpg" alt="preview" />
+
 **welcome to the slightly caffeinated corner of the internet**  
 where I build software, break systems (on purpose), and occasionally make computers do useful things.
 
 this space is a mix of backend systems, full-stack experiments, artificial intelligence, and whatever I’m curious about this week.  
 scroll around, steal ideas, or just enjoy the terminal vibes.
+
 
 
 
