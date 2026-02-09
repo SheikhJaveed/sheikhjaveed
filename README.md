@@ -1,15 +1,13 @@
-## Hey there 👋
+# Hey User - access granted
 
 <img src="./assets/readme_img.jpg" alt="preview" />
 
-**welcome to the slightly caffeinated corner of the internet**  
-where I build software, break systems (on purpose), and occasionally make computers do useful things.
 
-this space is a mix of backend systems, full-stack experiments, artificial intelligence, and whatever I’m curious about this week.  
-scroll around, steal ideas, or just enjoy the terminal vibes.
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=24&pause=1200&color=E5E7EB&center=true&vCenter=true&width=1100&lines=Slightly+caffeinated+and+deeply+curious%2C+I+like+building+things;I+enjoy+exploring+ideas%2C+breaking+them+apart%2C+and+putting+them+back+together+better.;most+days+are+spent+experimenting%2C+learning%2C+and+shipping+something+small+but+real.;scroll+around%2C+explore%2C+or+just+enjoy+the+terminal+vibes." />
 
-
+</div>
 
 
 <div align="center">
@@ -20,36 +18,26 @@ scroll around, steal ideas, or just enjoy the terminal vibes.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=800&color=7DF9FF&center=true&vCenter=true&width=780&lines=%24+role%3A+Full+Stack+Developer+Intern;%24+focus%3A+Backend+APIs+%7C+System+Design+%7C+AI;%24+mode%3A+production" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=800&color=7DF9FF&center=true&vCenter=true&width=780&lines=%24+role%3A+Full+Stack+Developer+Intern;%24+focus%3A+Backend+APIs+%7C+System+Design+%7C+AI;%24+mode%3A+production" />
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=500&color=00FFCC&center=true&vCenter=true&width=980&lines=%24+tools+--list;C%2B%2B%2C+Java%2C+JavaScript%2C+Python;React%2C+Next.js%2C+Node.js%2C+FastAPI%2C+Spring+Boot;Docker%2C+GitHub+Actions%2C+Azure;MongoDB%2C+PostgreSQL%2C+MySQL;Artificial+Intelligence" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=700&color=00FFCC&center=true&vCenter=true&width=920&lines=%24+runtime+--profile;backend-first+thinking;api-driven+design;teaching+machines+to+be+useful;clean+systems+over+clever+code" />
 
 </div>
 
 
+## connect.with.me
 
-## 🔗 connect.with.me
-
-<p align="left">
-  <a href="mailto:smjaveed94@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0f2027?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-  </a>
-  <a href="https://linkedin.com/in/sheikh-javeed">
-    <img src="https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-  </a>
-  <a href="https://x.com/sheikh_javeed12">
-    <img src="https://img.shields.io/badge/X-0f2027?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-</p>
+[![Email](https://img.shields.io/badge/Email-0f2027?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:smjaveed94@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/sheikh-javeed)
+[![X](https://img.shields.io/badge/X-0f2027?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sheikh_javeed12)
 
 
-<br>
+## runtime.metrics
 
-## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sheikhjaveed&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sheikhjaveed&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sheikhjaveed&theme=dark)
@@ -57,7 +45,7 @@ scroll around, steal ideas, or just enjoy the terminal vibes.
 
 <h3 align="left">Skills</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,java,python,react,mongodb,postgres,mysql,nodejs,nextjs,postman,flutter,tailwind,vscode,linux,express,bootstrap&theme=light&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,vite,typescript,c,cpp,java,python,react,mongodb,postgres,mysql,nodejs,nextjs,postman,spring,tailwind,azure,linux,fastapi,docker&theme=light&perline=10)](https://skillicons.dev)
 
 
 
